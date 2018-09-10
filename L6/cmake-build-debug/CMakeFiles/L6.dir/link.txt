@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/L6.dir/main.cpp.o CMakeFiles/L6.dir/Date.cpp.o  -o L6 

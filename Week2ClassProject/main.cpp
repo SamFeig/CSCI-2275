@@ -58,25 +58,26 @@ int main() {
            translate = w.substr(split+1, w.size());
            dict[index].abbrev = abrev;
            dict[index].translate = translate;
+           index++;
         }
     }
 
-    while(true) {
+    while(input != "end") {
         cout <<"Enter a word to translate. Type \"end\" to end." <<endl;
-        cin >> input;
-        if(input == "end") {
-            break;
-        }
-        else if(input.find(' ') == -1) {
+        //cin >> input;
+        getline(cin, input);
+        if(input.find(' ') == -1) {
             for(int i = 0; i < 4267; i++) {
                 if(dict[i].abbrev == input) {
-                    cout <<dict[i].translate <<endl;
+                    cout <<dict[i].translate <<" " <<endl;
                 }
 //                else {
 //                    cout <<"Abbreviation not found." <<endl;
 //                }
             }
-        } else {
+//            cout << "Abbreviation not found." << endl;
+        }
+        else if(input.find(' ') != -1){
             int split;
             split = w.find(' ');
 
@@ -88,6 +89,7 @@ int main() {
 //                    cout << "Abbreviation not found." << endl;
 //                }
             }
+//            cout << "Abbreviation not found." << endl;
         }
     }
     return 0;
