@@ -1,20 +1,20 @@
 Detecting C [-std=c11] compiler features failed to compile with the following output:
-Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Class/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/L6/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c50bc/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_c50bc.dir/build.make CMakeFiles/cmTC_c50bc.dir/build
-CMakeFiles/cmTC_c50bc.dir/build.make:64: *** target pattern contains no `%'.  Stop.
-make: *** [cmTC_c50bc/fast] Error 2
+Run Build Command:"/usr/bin/make" "cmTC_ca341/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ca341.dir/build.make CMakeFiles/cmTC_ca341.dir/build
+CMakeFiles/cmTC_ca341.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_ca341/fast] Error 2
 
 
 
 Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
-Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Class/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/L6/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_745b7/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_745b7.dir/build.make CMakeFiles/cmTC_745b7.dir/build
-CMakeFiles/cmTC_745b7.dir/build.make:64: *** target pattern contains no `%'.  Stop.
-make: *** [cmTC_745b7/fast] Error 2
+Run Build Command:"/usr/bin/make" "cmTC_7c178/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_7c178.dir/build.make CMakeFiles/cmTC_7c178.dir/build
+CMakeFiles/cmTC_7c178.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_7c178/fast] Error 2
 
 
 

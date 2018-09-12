@@ -1,4 +1,4 @@
-# Install script for directory: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Class
+# Install script for directory: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/L6
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Class/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/L6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

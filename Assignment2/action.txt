@@ -1,0 +1,14 @@
+3
+100
+3
+98
+3
+111
+2
+33
+1
+111, Book, One Hundred Years of Solitude, 25-11-17,91,803392,178,Fiction
+3
+111
+2
+12

@@ -11,7 +11,103 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c481d786-a48a-4cac-beaa-12a9af606a44" name="Default Changelist" comment="" />
+    <list default="true" id="c481d786-a48a-4cac-beaa-12a9af606a44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/CSCI-2275 Programming and Data Structures Assignment 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/action.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/Assignment2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/Assignment2.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/inventory.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/item.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/item.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/Base.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/Base.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/Derived.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/Derived.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/Base.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/Derived.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/L7.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/L7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/L7.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" afterPath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../L6/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../L6/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/CMakeFiles/" />
     <ignored path="$PROJECT_DIR$/cmake-build-default/" />
@@ -74,11 +170,11 @@
     <session id="-938668521">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -108,8 +204,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="160" column="5" selection-start-line="160" selection-start-column="5" selection-end-line="160" selection-end-column="5" />
+            <state relative-caret-position="490">
+              <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -121,6 +217,9 @@
       <find>bike, for sale,</find>
       <find>newItems</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -157,6 +256,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -233,11 +333,13 @@
       <workItem from="1536170544143" duration="2321000" />
       <workItem from="1536260230689" duration="12555000" />
       <workItem from="1536339550505" duration="137000" />
+      <workItem from="1536774956049" duration="11000" />
+      <workItem from="1536776228296" duration="1089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31725000" />
+    <option name="totallyTimeSpent" value="32825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,7 +354,7 @@
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27106228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -266,7 +368,7 @@
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -303,8 +405,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="160" column="5" selection-start-line="160" selection-start-column="5" selection-end-line="160" selection-end-column="5" />
+        <state relative-caret-position="490">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
         </state>
       </provider>
     </entry>

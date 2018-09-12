@@ -1,0 +1,110 @@
+﻿1,Magazine, Cosmos ,27-10-18,63, Yearly, International1,Magazine, Cosmos ,27-10-18,63, Yearly, International
+2,Book, Of Mice and Men ,22-02-18,37,630889,1111,Fiction 
+3,Magazine, The Scientist ,08-12-17,9,Weekly , International
+4,CD,Tailspin,20-1-88,25, 18:00, Fearless freight dog pilot Rye Mallett accepts a request to fly into a completely fogbound Northern Georgia town and deliver a mysterious box to a Dr. Lambert. A sabotage attempt causes him to crash-land near the isolated landing strip. There he's greeted by Dr. Brynn O'Neal who claims she was sent for the box in Dr. Lambert's stead. Rye finds himself irresistibly drawn to the intrigue surrounding his cargo – and to the mysterious and attractive Brynn O'Neal. Soon Ryn and Brynn are in a treacherous 48-hour race to deliver the box before time runs out.
+5,Book, The Catcher in the Rye ,28-12-17,91,806892,1578,Fiction 
+6,Magazine, Discover ,05-04-19,45, Monthly ,National 
+7,Magazine, Astronomy ,23-01-19,82, Yearly,National 
+8,Magazine, All About Space ,30-05-18,15, Yearly,National 
+9,Magazine, Science & Vie ,13-08-18,41, Monthly , International
+10,Magazine, Superinteressante ,26-11-17,32, Yearly,National 
+11,Magazine, Popular Science Italia ,23-12-18,11,Weekly ,National 
+12,Book, The Odyssey ,09-09-19,80,773451,1409,Fiction 
+13,Magazine, The Scientist ,14-11-17,78, Monthly , International
+14,Magazine, Safari Magazine ,26-08-18,9, Monthly ,National 
+15,Book, Les Misérables ,01-02-19,13,277446,1872, Real
+16,Book, A Tree Grows in Brooklyn ,15-01-19,50,254012,1606,Fiction 
+17,Book, Macbeth ,04-07-19,76,469293,306, Real
+18,Magazine, MIT Technology Review ,05-12-18,38,Weekly , International
+19,Book, Harry Potter and the Sorcerer's Stone ,26-05-19,86,787271,1836,Fiction 
+20,Magazine, SciTech ,29-10-17,87, Yearly,National 
+21,Magazine, Vokrug sveta ,03-01-18,85, Monthly ,National 
+22,Book, Life of Pi ,03-10-18,6,129065,1393,Fiction 
+23,Book, The Hunger Games ,22-12-17,42,773267,630, Real
+24,Book, The Pillars of the Earth ,21-12-17,41,197613,1879,Fiction 
+25,CD,Dark in Death,14-01-09,45, 2:00:00, On a chilly February night during a screening of Psycho in midtown someone sunk an ice pick into the back of Chanel Rylan's neck then disappeared quietly into the crowd in Times Square. NYPD's Eve Dallas is puzzling over a homicide that seems carefully planned and yet oddly personal. She receives a tip from an author who recognized it from the pages of her own book. This killer seems to find inspiration in someone else's imagination. Only Eve can put a stop to a creative impulse gone horribly destructively wrong. 46th in the series.
+26,CD,The Money Shot,25-09-13,11, 24:00, Ever a man of mystery and intrigue Teddy Fay has donned a new disguise – that of Mark Weldon a stuntman and actor. It will take every ounce of Teddy's cunning to save an actress' career protect the studio and finish filming Centurion Studios' next big hit. Second in the series.
+27,Book, The Hobbit ,25-03-18,31,556148,1359, Real
+28,Magazine, Resonance published by Indian Academy of Sciences ,29-05-19,43, Yearly, International
+29,Book, The Odyssey ,15-04-19,98,193174,1290,Fiction 
+30,Magazine, Science & Vie ,15-12-17,76,Weekly ,National 
+31,Book, Catching Fire ,03-03-19,44,581699,832, Real
+32,Book, A Tale of Two Cities ,10-07-19,14,639460,919,Fiction 
+33,CD,Leverage in Death,20-10-09,10, 30:00, Airline executives were finalizing a merger that will make news in the business world. But then marketing V.P. Paul Rogan walked into the conference room strapped with explosives. NYPSD's Eve Dallas confirms that Rogan was cruelly coercedby two masked men holding his family hostage. Rogan's motive was saving wife and daughter. But what was the motive of the masked men? 47th in the In Death series.
+34,CD,Texas Ranger,17-03-99, 33, 53:00, Rory Yates's discipline and law-enforcement skills have carried him far. But now he faces a scathing accusation: He is named a suspect in the murder of his ex-wife. The investigation is out of his jurisdiction. But Rory follows the Ranger creed – never surrender – and it leads him into an inferno of the most twisted and violent minds he's ever encountered.
+35,Magazine, Mercury ,25-09-18,83, Yearly, International
+36,Book, Mockingjay (Hunger Games #3) ,09-01-19,49,271718,1117,Fiction
+37,Magazine, Vokrug sveta ,17-06-19,76,Weekly , International
+38,Book, The Road ,09-06-18,25,453253,1054,Fiction 
+39,Magazine, Vesmír ,04-04-19,39,Weekly ,National 
+40,Book, The Story of My Life,03-04-18,8,600988,762, Real
+41,Book, Celebrating Silence: Excerpts from Five Years of Weekly Knowledge ,29-01-19,50,382618,807, Real
+42,Book, The Old Man and the Sea ,10-09-19,64,532431,1173, Real
+43,Book, 1984 ,07-11-18,83,360249,1507, Real
+44,Book, Harry Potter and the Prisoner of Azkaban ,09-06-19,77,942326,936,Fiction 
+45,Magazine, Science Reporter ,21-06-19,70,Weekly , International
+46,Magazine, All About Space ,14-10-17,67, Yearly,National 
+47,Book, A Tree Grows in Brooklyn ,22-08-18,60,819251,1488, Real
+48,CD,The President Is Missing,21-02-09, 20, 30:00, Enemies are planning an attack of unprecedented scale on America. Uncertainty and fear grip Washington. There are whispers of cyber-terror and a traitor in the cabinet. The President himself becomes a suspect and then goes missing leaving the world in shock.
+49,Book, A Tree Grows in Brooklyn ,11-12-18,46,696016,1233,Fiction 
+50,Book, Wuthering Heights Emily Bronte ,08-01-19,54,777836,1037, Real
+51,Book, East of Eden ,20-01-19,84,444366,228,Fiction 
+52,Magazine, Amali Science ,29-12-18,29,Weekly ,National 
+53,CD,Feared,03-03-05,40, 1:00:00, Three men file a lawsuit against the Rosato & DiNunzio law firm for reverse sex discrimination claiming they were not hired because they are men. The plaintiff's lawyer is Mary DiNunzio's ruthless nemesis Nick Machiavelli. He's determined not only to win but to destroy the firm. The stakes have never been higher for Mary and her associates as they try to keep Machiavelli at bay solve a murder and save the law firm they love – or lose everything they've worked for.Sixth in the series.
+54,Magazine, Galileu ,19-12-17,12,Weekly ,National 
+55,Book, The Stand ,28-11-18,29,651341,664,Fiction 
+56,Book, The Stand ,27-09-17,18,544872,1764,Fiction 
+57,CD,Paradox,13-09-95,18, 45:00, Chief Ty Christie of Willicott Maryland witnesses a murder from the deck of her cottage on Lake Massey. While dragging the lake not only do the divers find the murder victim they also discover dozens of bones. Working together with Chief Christie FBI Agents Savich and Sherlock soon discover a frightening connection between the bones and and escaped psychopath who had once attempted to kidnap Savich's five-year-old son. 22nd in the FBI Thriller series.
+58,Magazine, Nauka i Zhizn ,05-11-17,65,Weekly , International
+59,Book, The Diary of Anne Frank ,26-02-19,98,389905,1838,Fiction 
+60,Magazine, Wired ,06-03-18,90, Monthly , International
+61,Book, Harry Potter and the Sorcerer's Stone ,09-08-18,84,530614,581,Fiction 
+62,Magazine, Astronomy/Aerospace ,20-01-18,2,Weekly ,National 
+63,Magazine, SciTech ,19-02-19,18, Monthly , International
+64,Magazine, Bilim ve Teknik ,31-03-19,48, Yearly,National 
+65,Magazine, Astronomy ,28-09-18,7,Weekly , International
+66,Book, Pride and Prejudice ,04-03-18,41,977981,1687, Real
+67,Magazine, Physics World ,10-04-18,32, Monthly , International
+68,Book, The Glass Castle ,17-06-19,95,861001,890,Fiction 
+69,Book, Macbeth ,07-10-18,17,895727,507,Fiction 
+70,Book, Gone with the Wind ,06-11-17,14,645977,334, Real
+71,Magazine, Sky & Telescope ,24-03-18,39, Yearly, International
+72,Book, Brave New World ,27-02-18,75,291753,113, Real
+73,Magazine, Wired ,07-02-18,11, Yearly, International
+74,Magazine, Dream 2047 ,24-08-18,54, Monthly ,National 
+75,Book, The Princess Bride ,19-05-19,98,364629,957, Real
+76,Book, The Story of My Life,10-06-18,18,943683,1213, Real
+77,Magazine, Aktuel Naturvidenskab ,09-06-19,41, Monthly ,National 
+78,Magazine, Scientific European[2] ,03-10-18,3,Weekly ,National 
+79,Book, Great Expectations ,29-05-19,100,175982,813,Fiction 
+80,Book, Crime and Punishment ,09-09-18,19,620546,584,Fiction 
+81,Magazine, SciTech ,18-04-18,23, Yearly,National 
+82,Magazine, Discover ,05-01-18,78, Monthly , International
+83,Book, Crime and Punishment ,10-07-18,5,225012,1766,Fiction 
+84,CD,The Other Woman,11-06-88,7, 28:00, In the mountains of Andalusia a mysterious Frenchwoman is writing a dangerous memoir – of the Kremlin's most closely guarded secret. Only one man can unravel the conspiracy: Gabriel Allon the legendary art restorer and assassin whoserves as the chief of Israel's vaunted secret intelligence service. He and the Russians will engage in a final epic showdown with the fate of the postwar global order hanging in the balance. 18th in the series.
+85,Magazine, Guru Magazine ,16-11-17,95, Yearly,National 
+86,Book, Harry Potter and the Half-Blood Prince ,01-05-18,21,574470,720, Real
+87,Magazine, Le Scienze ,11-12-17,50, Yearly,National 
+88,Magazine, All About Space ,10-07-19,5, Yearly, International
+89,Book, Pride and Prejudice ,01-03-19,32,901443,457,Fiction 
+90,Magazine, Physics World ,24-06-19,25, Monthly ,National 
+91,Book, Anne of Green Gables ,21-07-18,21,178009,1535, Real
+92,Book, The Grapes of Wrath ,27-04-19,79,102520,1618,Fiction 
+93,Magazine, Physics World ,26-01-19,96,Weekly , International
+94,CD,Robert B. Parker's Colorblind,02-07-07,13, 44:00, Jesse Stone's return to work after rehab isn't a smooth ride. A series of racially motivated crimes shake the community and a young man Jesse takes under his wing reveals a life-changing secret. 17th in the series.
+95,Book, Great Expectations ,30-12-18,45,264517,1944,Fiction 
+96,Magazine, Resonance published by Indian Academy of Sciences ,21-09-17,91, Yearly,National 
+97,Magazine, Illustrerad Vetenskap ,07-05-19,1, Monthly ,National
+98,Magazine, American Scientist ,05-06-19,38, Monthly ,National 
+99,Magazine, Vesmír ,15-07-18,13, Yearly, International
+100,Magazine, Argo Navis ,12-11-18,13, Yearly, International
+101,Book, Macbeth ,13-10-17,82,502385,1701, Real
+102,Magazine, The Scientist ,24-09-18,57, Monthly ,National 
+103,Magazine, Airone ,28-11-17,81,Weekly ,National 
+104,Book, Cutting For Stone ,06-03-19,13,613085,802,Fiction 
+105,Book, East of Eden ,18-08-19,96,611392,1291, Real
+106,Book, 1984 ,25-07-19,1,792361,971, Real
+107,Book, East of Eden ,28-01-19,23,823092,761,Fiction 
+108,Magazine, Emiter ,11-10-18,37, Monthly , International
+109,Magazine, Physics World ,15-05-18,88, Yearly,National 
+110,Book, Gone with the Wind ,18-04-19,81,944581,772,Fiction 

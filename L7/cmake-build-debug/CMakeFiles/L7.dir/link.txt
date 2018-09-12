@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/L7.dir/Base.cpp.o CMakeFiles/L7.dir/Derived.cpp.o CMakeFiles/L7.dir/main.cpp.o  -o L7 

@@ -1,0 +1,100 @@
+Mitsubishi,Pajero,1998,3,2,164
+Ford,Econoline E250,2000,2,4,155
+Pontiac,Grand Prix,2008,4,4,157
+Toyota,Corolla,2003,5,2,192
+Toyota,RAV4,2003,3,2,116
+Mitsubishi,Endeavor,2009,3,2,144
+Toyota,RAV4,2008,2,4,176
+Jaguar,X-Type,2003,2,2,192
+Volkswagen,GTI,1999,3,4,148
+Mitsubishi,Mirage,1989,5,4,160
+Ford,F-Series Super Duty,2011,3,4,164
+Subaru,Outback,2010,4,2,179
+Toyota,Land Cruiser,2002,3,2,129
+Oldsmobile,Silhouette,2004,2,2,118
+Saab,900,1986,2,2,129
+Volvo,XC60,2011,2,3,134
+Eagle,Talon,1996,4,3,168
+Ford,Fusion,2006,5,2,144
+Buick,Century,1998,4,4,112
+Ford,Thunderbird,1955,2,3,104
+Volvo,V40,2004,2,2,147
+Aston Martin,Rapide,2011,3,3,118
+Mitsubishi,Challenger,2003,3,4,118
+Cadillac,STS,2011,3,4,195
+Audi,Allroad,2003,2,2,141
+Volkswagen,Passat,1994,4,4,102
+Pontiac,Bonneville,1964,2,2,113
+Chevrolet,Silverado 2500,2002,3,3,110
+Jeep,Commander,2009,3,3,187
+Cadillac,Escalade,2002,5,3,144
+Ford,Focus ST,2013,2,3,149
+Chrysler,Crossfire Roadster,2006,2,4,199
+GMC,Vandura G3500,1995,5,4,126
+Mazda,MX-5,2006,3,3,122
+Volvo,S60,2010,5,4,195
+Pontiac,Grand Am,1990,5,4,165
+Mazda,Millenia,1996,2,4,142
+Pontiac,Grand Prix,2007,3,4,184
+Volvo,V70,1999,3,4,113
+Mitsubishi,Montero,2002,5,2,173
+Lexus,GX,2012,4,4,183
+Mitsubishi,Diamante,1996,4,3,158
+Ford,Econoline E250,2002,5,3,127
+Mitsubishi,3000GT,1996,3,4,131
+Volkswagen,GTI,2010,5,4,149
+Nissan,Armada,2008,5,3,171
+Mercedes-Benz,500SEC,1993,3,2,148
+Mercury,Mariner,2008,4,2,181
+Porsche,911,2006,5,3,177
+Suzuki,Swift,2000,2,3,137
+Ford,Ranger,1992,5,4,152
+Audi,Cabriolet,1998,3,3,161
+Chrysler,Cirrus,2000,4,2,118
+Mercedes-Benz,SL65 AMG,2006,5,2,164
+Chevrolet,Express,2008,4,3,151
+Chevrolet,Aveo,2006,3,2,127
+BMW,X3,2006,3,2,101
+Mitsubishi,Lancer Evolution,2005,5,4,182
+Honda,Fit,2007,4,4,175
+Audi,A5,2008,4,4,112
+GMC,Terrain,2012,2,2,111
+Plymouth,Breeze,1998,4,2,166
+Volkswagen,GTI,1996,5,4,117
+Nissan,Frontier,2012,5,2,104
+Hyundai,Santa Fe,2009,4,4,146
+Nissan,Xterra,2003,3,4,192
+Mitsubishi,Expo,1995,2,4,166
+Mercedes-Benz,C-Class,1999,4,2,141
+Aston Martin,DBS,2012,5,4,110
+Plymouth,Voyager,1998,3,2,187
+Maybach,62,2011,4,4,124
+Dodge,Dakota,2003,3,4,115
+Pontiac,Grand Prix,1978,3,3,104
+Audi,A8,2008,5,3,137
+Toyota,Camry,2000,3,2,166
+BMW,525,2006,2,3,144
+Toyota,Supra,1994,2,2,124
+Mitsubishi,Lancer Evolution,2003,5,2,161
+Chrysler,Town & Country,1999,5,4,174
+Buick,Riviera,1987,5,3,150
+Infiniti,I,2000,4,4,159
+Ford,Ranger,1989,5,3,107
+Mercedes-Benz,SLS-Class,2012,5,2,104
+Mazda,Millenia,1996,5,3,133
+Kia,Sedona,2012,5,2,171
+Honda,Civic Si,2005,4,3,197
+Toyota,Avalon,2007,2,4,200
+Toyota,Celica,2002,4,3,149
+MINI,Cooper,2002,3,3,130
+Subaru,Loyale,1993,3,2,111
+Mitsubishi,Mighty Max,1996,3,2,161
+Saab,9000,1996,4,3,161
+Nissan,Frontier,2002,2,3,181
+Ford,LTD,1985,3,2,141
+BMW,325,2004,4,2,149
+Volkswagen,Jetta,1989,4,4,117
+Dodge,Dakota,2007,5,3,170
+Ford,E150,2004,4,3,157
+Suzuki,Swift,2001,5,4,133
+Jeep,Cherokee,2001,4,4,137
