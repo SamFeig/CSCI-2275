@@ -83,19 +83,64 @@ CMakeFiles/Assignment2.dir/item.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment2.dir/item.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/item.cpp" -o CMakeFiles/Assignment2.dir/item.cpp.s
 
+CMakeFiles/Assignment2.dir/book.cpp.o: CMakeFiles/Assignment2.dir/flags.make
+CMakeFiles/Assignment2.dir/book.cpp.o: ../book.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assignment2.dir/book.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assignment2.dir/book.cpp.o -c "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/book.cpp"
+
+CMakeFiles/Assignment2.dir/book.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment2.dir/book.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/book.cpp" > CMakeFiles/Assignment2.dir/book.cpp.i
+
+CMakeFiles/Assignment2.dir/book.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment2.dir/book.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/book.cpp" -o CMakeFiles/Assignment2.dir/book.cpp.s
+
+CMakeFiles/Assignment2.dir/cd.cpp.o: CMakeFiles/Assignment2.dir/flags.make
+CMakeFiles/Assignment2.dir/cd.cpp.o: ../cd.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Assignment2.dir/cd.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assignment2.dir/cd.cpp.o -c "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cd.cpp"
+
+CMakeFiles/Assignment2.dir/cd.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment2.dir/cd.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cd.cpp" > CMakeFiles/Assignment2.dir/cd.cpp.i
+
+CMakeFiles/Assignment2.dir/cd.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment2.dir/cd.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cd.cpp" -o CMakeFiles/Assignment2.dir/cd.cpp.s
+
+CMakeFiles/Assignment2.dir/magazine.cpp.o: CMakeFiles/Assignment2.dir/flags.make
+CMakeFiles/Assignment2.dir/magazine.cpp.o: ../magazine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Assignment2.dir/magazine.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assignment2.dir/magazine.cpp.o -c "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/magazine.cpp"
+
+CMakeFiles/Assignment2.dir/magazine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment2.dir/magazine.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/magazine.cpp" > CMakeFiles/Assignment2.dir/magazine.cpp.i
+
+CMakeFiles/Assignment2.dir/magazine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment2.dir/magazine.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/magazine.cpp" -o CMakeFiles/Assignment2.dir/magazine.cpp.s
+
 # Object files for target Assignment2
 Assignment2_OBJECTS = \
 "CMakeFiles/Assignment2.dir/main.cpp.o" \
-"CMakeFiles/Assignment2.dir/item.cpp.o"
+"CMakeFiles/Assignment2.dir/item.cpp.o" \
+"CMakeFiles/Assignment2.dir/book.cpp.o" \
+"CMakeFiles/Assignment2.dir/cd.cpp.o" \
+"CMakeFiles/Assignment2.dir/magazine.cpp.o"
 
 # External object files for target Assignment2
 Assignment2_EXTERNAL_OBJECTS =
 
 Assignment2: CMakeFiles/Assignment2.dir/main.cpp.o
 Assignment2: CMakeFiles/Assignment2.dir/item.cpp.o
+Assignment2: CMakeFiles/Assignment2.dir/book.cpp.o
+Assignment2: CMakeFiles/Assignment2.dir/cd.cpp.o
+Assignment2: CMakeFiles/Assignment2.dir/magazine.cpp.o
 Assignment2: CMakeFiles/Assignment2.dir/build.make
 Assignment2: CMakeFiles/Assignment2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Assignment2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Assignment2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Assignment2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

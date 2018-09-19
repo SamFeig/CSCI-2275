@@ -82,10 +82,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/book.cpp">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/book.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cd.cpp">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cd.h">
+			<Option target="Assignment2"/>
+		</Unit>
 		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/item.cpp">
 			<Option target="Assignment2"/>
 		</Unit>
 		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/item.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/magazine.cpp">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/magazine.h">
 			<Option target="Assignment2"/>
 		</Unit>
 		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/main.cpp">

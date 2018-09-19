@@ -6,7 +6,43 @@
 
 #IncludeRegexTransform: 
 
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/book.h
+iostream
+-
+item.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/item.h
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cd.h
+item.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/item.h
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/item.h
+string
+-
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/magazine.h
+item.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/item.h
+
 /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/main.cpp
 iostream
 -
+sstream
+-
+fstream
+-
+string
+-
+array
+-
+item.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/item.h
+magazine.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/magazine.h
+cd.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cd.h
+book.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/book.h
 

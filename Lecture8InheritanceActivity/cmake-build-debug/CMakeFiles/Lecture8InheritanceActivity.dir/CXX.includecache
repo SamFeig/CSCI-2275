@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/Base.cpp
+Base.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/Base.h
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/Base.h
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/Derived.cpp
+Derived.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/Derived.h
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/Derived.h
+Base.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/Base.h
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/main.cpp
+iostream
+-
+Base.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/Base.h
+Derived.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Lecture8InheritanceActivity/Derived.h
+

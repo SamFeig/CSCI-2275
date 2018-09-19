@@ -109,6 +109,7 @@ int shiftArray(item items[], int index, int& size) {
 }
 
 void maxProfit(item sell[], int sellSize, item buy[], int buySize) {
+    int counter = 0;
     cout <<endl <<"maxProfit:" <<endl;
     //cout <<"Sell Size " <<sellSize <<" Buy Size " <<buySize <<endl;
     for(int j = buySize; j >= 0; j--) {
@@ -118,6 +119,7 @@ void maxProfit(item sell[], int sellSize, item buy[], int buySize) {
                // cout<< "i: " <<i <<" j: " <<j <<endl;
                   //cout << "match: " << sell[i].type <<" ... Sell at " <<sell[i].price << " Buy at " <<buy[j].price <<endl;
                 cout <<sell[i].type <<" " <<buy[j].price <<endl;
+                counter++;
                 //shift arrays to remove items already matched
                   sellSize = shiftArray(sell, i, sellSize);
                   buySize = shiftArray(buy, j, buySize);
@@ -132,6 +134,7 @@ void maxProfit(item sell[], int sellSize, item buy[], int buySize) {
         cout <<endl <<"Match not found" <<endl;
         cout <<buy[i].type << " " <<buy[i].price <<endl <<endl;
     }
+    cout<<counter<<endl;
 }
 
 void maxBargan(item sell[], int sellSize, item buy[], int buySize) {

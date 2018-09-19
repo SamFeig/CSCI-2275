@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Lecture8InheritanceActivity.dir/main.cpp.o CMakeFiles/Lecture8InheritanceActivity.dir/Base.cpp.o CMakeFiles/Lecture8InheritanceActivity.dir/Derived.cpp.o  -o Lecture8InheritanceActivity 

@@ -1,4 +1,4 @@
-﻿1,Magazine, Cosmos ,27-10-18,63, Yearly, International1,Magazine, Cosmos ,27-10-18,63, Yearly, International
+1,Magazine, Cosmos ,27-10-18,63, Yearly, International
 2,Book, Of Mice and Men ,22-02-18,37,630889,1111,Fiction 
 3,Magazine, The Scientist ,08-12-17,9,Weekly , International
 4,CD,Tailspin,20-1-88,25, 18:00, Fearless freight dog pilot Rye Mallett accepts a request to fly into a completely fogbound Northern Georgia town and deliver a mysterious box to a Dr. Lambert. A sabotage attempt causes him to crash-land near the isolated landing strip. There he's greeted by Dr. Brynn O'Neal who claims she was sent for the box in Dr. Lambert's stead. Rye finds himself irresistibly drawn to the intrigue surrounding his cargo – and to the mysterious and attractive Brynn O'Neal. Soon Ryn and Brynn are in a treacherous 48-hour race to deliver the box before time runs out.

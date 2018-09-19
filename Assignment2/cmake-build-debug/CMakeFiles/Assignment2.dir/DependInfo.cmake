@@ -4,7 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/book.cpp" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/book.cpp.o"
+  "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cd.cpp" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/cd.cpp.o"
   "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/item.cpp" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/item.cpp.o"
+  "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/magazine.cpp" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/magazine.cpp.o"
   "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/main.cpp" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

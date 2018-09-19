@@ -123,6 +123,60 @@ Assignment2/fast:
 	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/build
 .PHONY : Assignment2/fast
 
+book.o: book.cpp.o
+
+.PHONY : book.o
+
+# target to build an object file
+book.cpp.o:
+	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/book.cpp.o
+.PHONY : book.cpp.o
+
+book.i: book.cpp.i
+
+.PHONY : book.i
+
+# target to preprocess a source file
+book.cpp.i:
+	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/book.cpp.i
+.PHONY : book.cpp.i
+
+book.s: book.cpp.s
+
+.PHONY : book.s
+
+# target to generate assembly for a file
+book.cpp.s:
+	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/book.cpp.s
+.PHONY : book.cpp.s
+
+cd.o: cd.cpp.o
+
+.PHONY : cd.o
+
+# target to build an object file
+cd.cpp.o:
+	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/cd.cpp.o
+.PHONY : cd.cpp.o
+
+cd.i: cd.cpp.i
+
+.PHONY : cd.i
+
+# target to preprocess a source file
+cd.cpp.i:
+	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/cd.cpp.i
+.PHONY : cd.cpp.i
+
+cd.s: cd.cpp.s
+
+.PHONY : cd.s
+
+# target to generate assembly for a file
+cd.cpp.s:
+	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/cd.cpp.s
+.PHONY : cd.cpp.s
+
 item.o: item.cpp.o
 
 .PHONY : item.o
@@ -149,6 +203,33 @@ item.s: item.cpp.s
 item.cpp.s:
 	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/item.cpp.s
 .PHONY : item.cpp.s
+
+magazine.o: magazine.cpp.o
+
+.PHONY : magazine.o
+
+# target to build an object file
+magazine.cpp.o:
+	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/magazine.cpp.o
+.PHONY : magazine.cpp.o
+
+magazine.i: magazine.cpp.i
+
+.PHONY : magazine.i
+
+# target to preprocess a source file
+magazine.cpp.i:
+	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/magazine.cpp.i
+.PHONY : magazine.cpp.i
+
+magazine.s: magazine.cpp.s
+
+.PHONY : magazine.s
+
+# target to generate assembly for a file
+magazine.cpp.s:
+	$(MAKE) -f CMakeFiles/Assignment2.dir/build.make CMakeFiles/Assignment2.dir/magazine.cpp.s
+.PHONY : magazine.cpp.s
 
 main.o: main.cpp.o
 
@@ -186,9 +267,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Assignment2"
+	@echo "... book.o"
+	@echo "... book.i"
+	@echo "... book.s"
+	@echo "... cd.o"
+	@echo "... cd.i"
+	@echo "... cd.s"
 	@echo "... item.o"
 	@echo "... item.i"
 	@echo "... item.s"
+	@echo "... magazine.o"
+	@echo "... magazine.i"
+	@echo "... magazine.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
