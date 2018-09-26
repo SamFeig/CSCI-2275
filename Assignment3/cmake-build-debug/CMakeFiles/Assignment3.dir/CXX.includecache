@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment3/WordAnalysis.cpp
+WordAnalysis.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment3/WordAnalysis.h
+iostream
+-
+fstream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment3/WordAnalysis.h
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment3/main.cpp
+iostream
+-
+sstream
+-
+WordAnalysis.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment3/WordAnalysis.h
+

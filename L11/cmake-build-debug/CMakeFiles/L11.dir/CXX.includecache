@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/L11/LinkedList.h
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/L11/main.cpp
+iostream
+-
+LinkedList.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/L11/LinkedList.h
+
