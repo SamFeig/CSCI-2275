@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BST.cpp
+iostream
+-
+algorithm
+-
+iterator
+-
+queue
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BSTree.cpp
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/main.cpp
+iostream
+-
+BSTree.cpp
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BSTree.cpp
+BST.cpp
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BST.cpp
+

@@ -1,0 +1,4 @@
+"/Users/sam/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/182.4129.51/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/cmake-build-debug
