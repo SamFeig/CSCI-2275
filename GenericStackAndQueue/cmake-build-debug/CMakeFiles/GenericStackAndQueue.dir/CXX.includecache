@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericStackAndQueue/GenericStack.cpp
+iostream
+-
+exception
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericStackAndQueue/main.cpp
+iostream
+-
+GenericStack.cpp
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericStackAndQueue/GenericStack.cpp
+

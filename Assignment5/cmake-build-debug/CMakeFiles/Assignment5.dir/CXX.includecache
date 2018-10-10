@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment5/CommunicationsNetwork.cpp
+iostream
+-
+fstream
+-
+CommunicationsNetwork.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment5/CommunicationsNetwork.h
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment5/CommunicationsNetwork.h
+iostream
+-
+vector
+-
+Queue.cpp
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment5/Queue.cpp
+LinkedList.cpp
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment5/LinkedList.cpp
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment5/LinkedList.cpp
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment5/Queue.cpp
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment5/main.cpp
+iostream
+-
+CommunicationsNetwork.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment5/CommunicationsNetwork.h
+

@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment4/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_009be/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_009be.dir/build.make CMakeFiles/cmTC_009be.dir/build
+CMakeFiles/cmTC_009be.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_009be/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment4/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_642c9/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_642c9.dir/build.make CMakeFiles/cmTC_642c9.dir/build
+CMakeFiles/cmTC_642c9.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_642c9/fast] Error 2
+
+
+
