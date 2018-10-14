@@ -34,7 +34,7 @@ public:
         return node;
     }
 
-     node *search( node *root, int key) {
+     node* search(node *root, int key) {
         // Base Cases: root is null or key is present at root
         if (root == NULL || root->key == key)
             return root;
@@ -46,4 +46,8 @@ public:
         // Key is smaller than root's key
         return search(root->left, key);
     }
+
+    void remove() {
+
+     }
 };

@@ -32,6 +32,18 @@ private:
         else return x->size;
     }
 
+    int cmp(Key k1, Key k2) {
+        if(k1 == k2) {
+            return 0;
+        }
+        else if(k1 > k2) {
+            return 1;
+        }
+        else {
+            return -1;
+        }
+    }
+
     Value get(node<Key, Value> *x, Key key) {
         if (key == NULL) throw "Calls get() with a NULL key";
         if (x == NULL) return NULL;
@@ -68,9 +80,9 @@ private:
     node<Key, Value>* remove(node<Key, Value> *x, Key key) {
         if (x == NULL) return NULL;
 
-        int cmp = key==(x->key);
-        if      (cmp < 0) x->left  = remove(x->left,  key);
-        else if (cmp > 0) x->right = remove(x->right, key);
+//        int cmp = key==(x->key);
+        if      (key < x->key) x->left  = remove(x->left,  key);
+        else if (key > x->key) x->right = remove(x->right, key);
         else {
             if (x->right == NULL) return x->left;
             if (x->left  == NULL) return x->right;
@@ -95,9 +107,9 @@ private:
 
     node<Key, Value>* floor(node<Key, Value> *x, Key key) {
         if (x == NULL) return NULL;
-        int cmp = key==(x->key);
-        if (cmp == 0) return x;
-        if (cmp <  0) return floor(x->left, key);
+//        int cmp = key==(x->key);
+        if (key == x->key) return x;
+        if (key < x->key) return floor(x->left, key);
         node<Key, Value> *t = floor(x->right, key);
         if (t != NULL) return t;
         else return x;
@@ -105,17 +117,17 @@ private:
 
     Key floor2(node<Key, Value> *x, Key key, Key best) {
         if (x == NULL) return best;
-        int cmp = key==(x->key);
-        if      (cmp  < 0) return floor2(x->left, key, best);
-        else if (cmp  > 0) return floor2(x->right, key, x->key);
+//        int cmp = key==(x->key);
+        if      (key < x->key) return floor2(x->left, key, best);
+        else if (key > x->key) return floor2(x->right, key, x->key);
         else               return x->key;
     }
 
     node<Key, Value>* ceiling(node<Key, Value> *x, Key key) {
         if (x == NULL) return NULL;
-        int cmp = key==(x->key);
-        if (cmp == 0) return x;
-        if (cmp < 0) {
+//        int cmp = key==(x->key);
+        if (key == x->key) return x;
+        if (key < x->key) {
             node<Key, Value> t = ceiling(x->left, key);
             if (t != NULL) return t;
             else return x;
@@ -135,9 +147,9 @@ private:
     // Number of keys in the subtree less than key.
     int rank(Key key, node<Key, Value> *x) {
         if (x == NULL) return 0;
-        int cmp = key==(x->key);
-        if      (cmp < 0) return rank(key, x->left);
-        else if (cmp > 0) return 1 + size(x->left) + rank(key, x->right);
+//        int cmp = key==(x->key);
+        if      (key < x->key) return rank(key, x->left);
+        else if (key > x->key) return 1 + size(x->left) + rank(key, x->right);
         else              return size(x->left);
     }
 
