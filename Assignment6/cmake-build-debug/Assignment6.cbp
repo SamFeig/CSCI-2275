@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/MovieTree.cpp">
+			<Option target="Assignment6"/>
+		</Unit>
 		<Unit filename="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/MovieTree.h">
 			<Option target="Assignment6"/>
 		</Unit>

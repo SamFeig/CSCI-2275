@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/MovieTree.cpp
+MovieTree.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/MovieTree.h
+iostream
+-
+fstream
+-
+sstream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/MovieTree.h
+string
+-
+

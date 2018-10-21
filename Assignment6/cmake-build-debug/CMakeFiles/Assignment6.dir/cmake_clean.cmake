@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Assignment6.dir/main.cpp.o"
+  "CMakeFiles/Assignment6.dir/MovieTree.cpp.o"
   "Assignment6.pdb"
   "Assignment6"
 )

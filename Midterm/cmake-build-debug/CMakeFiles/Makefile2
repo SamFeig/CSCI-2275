@@ -59,45 +59,45 @@ RM = "/Users/sam/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/1
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6"
+CMAKE_SOURCE_DIR = "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm/cmake-build-debug"
 
 #=============================================================================
-# Target rules for target CMakeFiles/Assignment6.dir
+# Target rules for target CMakeFiles/Midterm.dir
 
 # All Build rule for target.
-CMakeFiles/Assignment6.dir/all:
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/depend
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/cmake-build-debug/CMakeFiles" --progress-num=1,2,3 "Built target Assignment6"
-.PHONY : CMakeFiles/Assignment6.dir/all
+CMakeFiles/Midterm.dir/all:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/depend
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4 "Built target Midterm"
+.PHONY : CMakeFiles/Midterm.dir/all
 
 # Include target in all.
-all: CMakeFiles/Assignment6.dir/all
+all: CMakeFiles/Midterm.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Assignment6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/cmake-build-debug/CMakeFiles" 3
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Assignment6.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/Assignment6.dir/rule
+CMakeFiles/Midterm.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm/cmake-build-debug/CMakeFiles" 4
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Midterm.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/Midterm.dir/rule
 
 # Convenience name for target.
-Assignment6: CMakeFiles/Assignment6.dir/rule
+Midterm: CMakeFiles/Midterm.dir/rule
 
-.PHONY : Assignment6
-
-# clean rule for target.
-CMakeFiles/Assignment6.dir/clean:
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/clean
-.PHONY : CMakeFiles/Assignment6.dir/clean
+.PHONY : Midterm
 
 # clean rule for target.
-clean: CMakeFiles/Assignment6.dir/clean
+CMakeFiles/Midterm.dir/clean:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/clean
+.PHONY : CMakeFiles/Midterm.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Midterm.dir/clean
 
 .PHONY : clean
 

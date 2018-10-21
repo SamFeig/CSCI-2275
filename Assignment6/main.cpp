@@ -1,6 +1,14 @@
-#include <iostream>
+//
+//  Sam Feig
+//  Assignment 6
+//  CSCI 2275
+//
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+#include <iostream>
+#include "MovieTree.h"
+using namespace std;
+
+int main(int argc, char* argv[]) {
+    MovieTree mt(argv);
     return 0;
 }

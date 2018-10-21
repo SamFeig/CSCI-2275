@@ -48,10 +48,10 @@ RM = "/Users/sam/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/1
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6"
+CMAKE_SOURCE_DIR = "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/cmake-build-debug/CMakeFiles" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm/cmake-build-debug/CMakeFiles" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Assignment6/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -111,71 +111,98 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Assignment6
+# Target rules for targets named Midterm
 
 # Build rule for target.
-Assignment6: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Assignment6
-.PHONY : Assignment6
+Midterm: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Midterm
+.PHONY : Midterm
 
 # fast build rule for target.
-Assignment6/fast:
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/build
-.PHONY : Assignment6/fast
+Midterm/fast:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/build
+.PHONY : Midterm/fast
 
-MovieTree.o: MovieTree.cpp.o
+Array.o: Array.cpp.o
 
-.PHONY : MovieTree.o
-
-# target to build an object file
-MovieTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/MovieTree.cpp.o
-.PHONY : MovieTree.cpp.o
-
-MovieTree.i: MovieTree.cpp.i
-
-.PHONY : MovieTree.i
-
-# target to preprocess a source file
-MovieTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/MovieTree.cpp.i
-.PHONY : MovieTree.cpp.i
-
-MovieTree.s: MovieTree.cpp.s
-
-.PHONY : MovieTree.s
-
-# target to generate assembly for a file
-MovieTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/MovieTree.cpp.s
-.PHONY : MovieTree.cpp.s
-
-main.o: main.cpp.o
-
-.PHONY : main.o
+.PHONY : Array.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/main.cpp.o
-.PHONY : main.cpp.o
+Array.cpp.o:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/Array.cpp.o
+.PHONY : Array.cpp.o
 
-main.i: main.cpp.i
+Array.i: Array.cpp.i
 
-.PHONY : main.i
+.PHONY : Array.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/main.cpp.i
-.PHONY : main.cpp.i
+Array.cpp.i:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/Array.cpp.i
+.PHONY : Array.cpp.i
 
-main.s: main.cpp.s
+Array.s: Array.cpp.s
 
-.PHONY : main.s
+.PHONY : Array.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/Assignment6.dir/build.make CMakeFiles/Assignment6.dir/main.cpp.s
-.PHONY : main.cpp.s
+Array.cpp.s:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/Array.cpp.s
+.PHONY : Array.cpp.s
+
+LinkedList.o: LinkedList.cpp.o
+
+.PHONY : LinkedList.o
+
+# target to build an object file
+LinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/LinkedList.cpp.o
+.PHONY : LinkedList.cpp.o
+
+LinkedList.i: LinkedList.cpp.i
+
+.PHONY : LinkedList.i
+
+# target to preprocess a source file
+LinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/LinkedList.cpp.i
+.PHONY : LinkedList.cpp.i
+
+LinkedList.s: LinkedList.cpp.s
+
+.PHONY : LinkedList.s
+
+# target to generate assembly for a file
+LinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/LinkedList.cpp.s
+.PHONY : LinkedList.cpp.s
+
+midterm.o: midterm.cpp.o
+
+.PHONY : midterm.o
+
+# target to build an object file
+midterm.cpp.o:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/midterm.cpp.o
+.PHONY : midterm.cpp.o
+
+midterm.i: midterm.cpp.i
+
+.PHONY : midterm.i
+
+# target to preprocess a source file
+midterm.cpp.i:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/midterm.cpp.i
+.PHONY : midterm.cpp.i
+
+midterm.s: midterm.cpp.s
+
+.PHONY : midterm.s
+
+# target to generate assembly for a file
+midterm.cpp.s:
+	$(MAKE) -f CMakeFiles/Midterm.dir/build.make CMakeFiles/Midterm.dir/midterm.cpp.s
+.PHONY : midterm.cpp.s
 
 # Help Target
 help:
@@ -185,13 +212,16 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... Assignment6"
-	@echo "... MovieTree.o"
-	@echo "... MovieTree.i"
-	@echo "... MovieTree.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... Midterm"
+	@echo "... Array.o"
+	@echo "... Array.i"
+	@echo "... Array.s"
+	@echo "... LinkedList.o"
+	@echo "... LinkedList.i"
+	@echo "... LinkedList.s"
+	@echo "... midterm.o"
+	@echo "... midterm.i"
+	@echo "... midterm.s"
 .PHONY : help
 
 

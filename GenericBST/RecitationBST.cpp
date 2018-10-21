@@ -1,5 +1,5 @@
 #include <iostream>
-class BSTree {
+class RecitationBST {
 public:
      struct node {
         int key;

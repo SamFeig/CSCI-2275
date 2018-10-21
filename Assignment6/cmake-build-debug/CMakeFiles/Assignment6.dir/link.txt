@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Assignment6.dir/main.cpp.o  -o Assignment6 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Assignment6.dir/main.cpp.o CMakeFiles/Assignment6.dir/MovieTree.cpp.o  -o Assignment6 
