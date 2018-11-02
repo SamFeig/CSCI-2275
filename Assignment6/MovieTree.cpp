@@ -6,10 +6,12 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
+
 using namespace std;
 
 MovieTree::MovieTree(char* argv[]) {
     readFile(argv[1]);
+
     string input, name;
     bool quit = false;
 
@@ -315,21 +317,21 @@ void MovieTree::deleteMovieNode(string title){
 //    Check if movie being deleted is head of LL, if so delete BST node as well
     else if((delMovie == index->head) && (index->head->next == nullptr)) {
         index->head = nullptr;
-        delete(delMovie);
+        delete delMovie;
 
         if((index->left == nullptr) && (index->right == nullptr)){
             if (index->parent == nullptr){
-                delete(index);
+                delete index;
                 return;
             }
             else if(index->parent->left == index){
                 index->parent->left = nullptr;
-                delete(index);
+                delete index;
                 return;
             }
             else if(index->parent->right == index){
                 index->parent->right = nullptr;
-                delete(index);
+                delete index;
                 return;
             }
         }
@@ -386,20 +388,20 @@ void MovieTree::deleteMovieNode(string title){
                 else if(index == index->parent->left) {
                     min->parent = index->parent;
                     index->parent->left = min;
-                    delete(index);
+                    delete index;
                     return;
                 }
                 else if(index == index->parent->right) {
 
                     min->parent = index->parent;
                     index->parent->right = min;
-                    delete(index);
+                    delete index;
                     return;
                 }
             }
             else {
                 min->parent->left = min->right;
-                min->right->parent = min->parent;
+                min->right->parent = min->parent; //segfault if min is NULL
                 min->left = index->left;
                 min->right = index->right;
                 min->left->parent = min;
@@ -467,7 +469,7 @@ void MovieTree::rentMovie(string title){
         return;
     }
 
-//    Print our movie info and decrement quantity
+//    Print out movie info and decrement quantity
     else {
         cout << "Movie has been rented." << endl;
         cout << "Movie Info:" << endl;
@@ -494,7 +496,7 @@ void MovieTree::countMovieNodes(MovieNodeBST *node, int &count){
     if(node->left != nullptr){
         countMovieNodes(node->left , count);
     }
-    if(node->right !=nullptr){
+    if(node->right != nullptr){
         countMovieNodes(node->right, count);
     }
 

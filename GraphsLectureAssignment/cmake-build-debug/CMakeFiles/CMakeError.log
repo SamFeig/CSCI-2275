@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GraphsLectureAssignment/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_79f87/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_79f87.dir/build.make CMakeFiles/cmTC_79f87.dir/build
+CMakeFiles/cmTC_79f87.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_79f87/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GraphsLectureAssignment/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a365e/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_a365e.dir/build.make CMakeFiles/cmTC_a365e.dir/build
+CMakeFiles/cmTC_a365e.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_a365e/fast] Error 2
+
+
+

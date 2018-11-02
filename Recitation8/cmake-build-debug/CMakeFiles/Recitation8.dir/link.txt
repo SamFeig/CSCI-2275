@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Recitation8.dir/main.cpp.o CMakeFiles/Recitation8.dir/BST.cpp.o  -o Recitation8 

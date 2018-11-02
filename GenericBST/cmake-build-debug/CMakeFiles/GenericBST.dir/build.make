@@ -83,31 +83,31 @@ CMakeFiles/GenericBST.dir/BST.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GenericBST.dir/BST.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BST.cpp" -o CMakeFiles/GenericBST.dir/BST.cpp.s
 
-CMakeFiles/GenericBST.dir/BSTree.cpp.o: CMakeFiles/GenericBST.dir/flags.make
-CMakeFiles/GenericBST.dir/BSTree.cpp.o: ../BSTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/GenericBST.dir/BSTree.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GenericBST.dir/BSTree.cpp.o -c "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BSTree.cpp"
+CMakeFiles/GenericBST.dir/RecitationBST.cpp.o: CMakeFiles/GenericBST.dir/flags.make
+CMakeFiles/GenericBST.dir/RecitationBST.cpp.o: ../RecitationBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/GenericBST.dir/RecitationBST.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GenericBST.dir/RecitationBST.cpp.o -c "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/RecitationBST.cpp"
 
-CMakeFiles/GenericBST.dir/BSTree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GenericBST.dir/BSTree.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BSTree.cpp" > CMakeFiles/GenericBST.dir/BSTree.cpp.i
+CMakeFiles/GenericBST.dir/RecitationBST.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GenericBST.dir/RecitationBST.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/RecitationBST.cpp" > CMakeFiles/GenericBST.dir/RecitationBST.cpp.i
 
-CMakeFiles/GenericBST.dir/BSTree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GenericBST.dir/BSTree.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BSTree.cpp" -o CMakeFiles/GenericBST.dir/BSTree.cpp.s
+CMakeFiles/GenericBST.dir/RecitationBST.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GenericBST.dir/RecitationBST.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/RecitationBST.cpp" -o CMakeFiles/GenericBST.dir/RecitationBST.cpp.s
 
 # Object files for target GenericBST
 GenericBST_OBJECTS = \
 "CMakeFiles/GenericBST.dir/main.cpp.o" \
 "CMakeFiles/GenericBST.dir/BST.cpp.o" \
-"CMakeFiles/GenericBST.dir/BSTree.cpp.o"
+"CMakeFiles/GenericBST.dir/RecitationBST.cpp.o"
 
 # External object files for target GenericBST
 GenericBST_EXTERNAL_OBJECTS =
 
 GenericBST: CMakeFiles/GenericBST.dir/main.cpp.o
 GenericBST: CMakeFiles/GenericBST.dir/BST.cpp.o
-GenericBST: CMakeFiles/GenericBST.dir/BSTree.cpp.o
+GenericBST: CMakeFiles/GenericBST.dir/RecitationBST.cpp.o
 GenericBST: CMakeFiles/GenericBST.dir/build.make
 GenericBST: CMakeFiles/GenericBST.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable GenericBST"

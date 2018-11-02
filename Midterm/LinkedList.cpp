@@ -120,7 +120,6 @@ Node* LinkedList::search(int value) {
 bool LinkedList::isConnected(int k1, int k2) {
     Node* n1 = search(k1);
     Node* n2 = search(k2);
-
     if(n1 == NULL || n2 == NULL) {
         return false;
     }

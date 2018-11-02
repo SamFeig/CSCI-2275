@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BST.cpp" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/cmake-build-debug/CMakeFiles/GenericBST.dir/BST.cpp.o"
-  "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/BSTree.cpp" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/cmake-build-debug/CMakeFiles/GenericBST.dir/BSTree.cpp.o"
+  "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/RecitationBST.cpp" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/cmake-build-debug/CMakeFiles/GenericBST.dir/RecitationBST.cpp.o"
   "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/main.cpp" "/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/GenericBST/cmake-build-debug/CMakeFiles/GenericBST.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Recitation9/main.cpp
+iostream
+-
+terrible_dynamic_size_array_unsorted.cpp
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Recitation9/terrible_dynamic_size_array_unsorted.cpp
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Recitation9/terrible_dynamic_size_array_unsorted.cpp
+terrible_dynamic_size_array_unsorted.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Recitation9/terrible_dynamic_size_array_unsorted.h
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Recitation9/terrible_dynamic_size_array_unsorted.h
+iostream
+-
+

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/GenericBST.dir/main.cpp.o"
   "CMakeFiles/GenericBST.dir/BST.cpp.o"
-  "CMakeFiles/GenericBST.dir/BSTree.cpp.o"
+  "CMakeFiles/GenericBST.dir/RecitationBST.cpp.o"
   "GenericBST.pdb"
   "GenericBST"
 )

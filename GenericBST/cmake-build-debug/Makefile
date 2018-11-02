@@ -150,32 +150,32 @@ BST.cpp.s:
 	$(MAKE) -f CMakeFiles/GenericBST.dir/build.make CMakeFiles/GenericBST.dir/BST.cpp.s
 .PHONY : BST.cpp.s
 
-BSTree.o: BSTree.cpp.o
+RecitationBST.o: RecitationBST.cpp.o
 
-.PHONY : BSTree.o
+.PHONY : RecitationBST.o
 
 # target to build an object file
-BSTree.cpp.o:
-	$(MAKE) -f CMakeFiles/GenericBST.dir/build.make CMakeFiles/GenericBST.dir/BSTree.cpp.o
-.PHONY : BSTree.cpp.o
+RecitationBST.cpp.o:
+	$(MAKE) -f CMakeFiles/GenericBST.dir/build.make CMakeFiles/GenericBST.dir/RecitationBST.cpp.o
+.PHONY : RecitationBST.cpp.o
 
-BSTree.i: BSTree.cpp.i
+RecitationBST.i: RecitationBST.cpp.i
 
-.PHONY : BSTree.i
+.PHONY : RecitationBST.i
 
 # target to preprocess a source file
-BSTree.cpp.i:
-	$(MAKE) -f CMakeFiles/GenericBST.dir/build.make CMakeFiles/GenericBST.dir/BSTree.cpp.i
-.PHONY : BSTree.cpp.i
+RecitationBST.cpp.i:
+	$(MAKE) -f CMakeFiles/GenericBST.dir/build.make CMakeFiles/GenericBST.dir/RecitationBST.cpp.i
+.PHONY : RecitationBST.cpp.i
 
-BSTree.s: BSTree.cpp.s
+RecitationBST.s: RecitationBST.cpp.s
 
-.PHONY : BSTree.s
+.PHONY : RecitationBST.s
 
 # target to generate assembly for a file
-BSTree.cpp.s:
-	$(MAKE) -f CMakeFiles/GenericBST.dir/build.make CMakeFiles/GenericBST.dir/BSTree.cpp.s
-.PHONY : BSTree.cpp.s
+RecitationBST.cpp.s:
+	$(MAKE) -f CMakeFiles/GenericBST.dir/build.make CMakeFiles/GenericBST.dir/RecitationBST.cpp.s
+.PHONY : RecitationBST.cpp.s
 
 main.o: main.cpp.o
 
@@ -216,9 +216,9 @@ help:
 	@echo "... BST.o"
 	@echo "... BST.i"
 	@echo "... BST.s"
-	@echo "... BSTree.o"
-	@echo "... BSTree.i"
-	@echo "... BSTree.s"
+	@echo "... RecitationBST.o"
+	@echo "... RecitationBST.i"
+	@echo "... RecitationBST.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
