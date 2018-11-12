@@ -7,13 +7,13 @@ Nick-Ian
 Danielle-Nathan,Tessa,Tang
 Grey-Kenneth
 Sam-Zack
-Timothy-Simon
+Tim-Simon
 Connor-Kenneth
 Nathan-Danielle
 Kylie-Tang
-Ian-Nick,Daniel,Ria
-Zack-Sam,Drew
-Simon-Tim,John
+Ian-Nick,Daniel,Ria,Ryan
+Zack-Sam,Drew,Earl
+Simon-Tim,John,Divya
 Daniel-Ian
 Akhil-Paramvir,Aurangzeb
 Aurangzeb-Akhil,Kieran

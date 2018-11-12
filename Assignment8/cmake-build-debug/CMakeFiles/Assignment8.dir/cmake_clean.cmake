@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Assignment8.dir/main.cpp.o"
+  "CMakeFiles/Assignment8.dir/Graph.cpp.o"
   "Assignment8.pdb"
   "Assignment8"
 )

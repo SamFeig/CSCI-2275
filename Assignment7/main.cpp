@@ -91,6 +91,19 @@ int main(int argc, char* argv[]) {
 //        cout<<e.what()<<endl;
 //    }
 //    cout<<"------------------------"<<endl;
+//    cout<<"Delete from root with children"<<endl;
+//    try {
+//        MovieTree* a = new MovieTree();
+//        a->addMovieNode(1,"Shawshank Redemption",1994,45);
+////        a->addMovieNode(2,"The Godfather",1972,34);
+////        a->addMovieNode(46,"Apocalypse Now",1979,5);
+//        a->deleteMovieNode("Shawshank Redemption");
+//        a->printMovieInventory();
+//    }
+//    catch(exception& e){
+//        cout<<e.what()<<endl;
+//    }
+//    cout<<"------------------------"<<endl;
 //    cout<<"Delete non-existant heap node"<<endl;
 //    try {
 //        MovieTree* a = new MovieTree();

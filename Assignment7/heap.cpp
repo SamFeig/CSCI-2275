@@ -168,6 +168,7 @@ public:
         }
         cout<<endl<<endl;
     }
+
     void printTop10Array() {
         removedIndex = 0;
         m = new MovieNodeH[10];

@@ -169,15 +169,18 @@ void MovieTree::deleteMovieNode(string title){
 
 //          No children
         if((index->left == nullptr) && (index->right == nullptr)) {
+//            root
             if (index->parent == nullptr) {
                 delete index;
                 return;
             }
+//            is left child no children
             else if (index->parent->left == index) {
                 index->parent->left = nullptr;
                 delete index;
                 return;
             }
+//            is right child noi children
             else if (index->parent->right == index) {
                 index->parent->right = nullptr;
                 delete index;
@@ -187,16 +190,19 @@ void MovieTree::deleteMovieNode(string title){
 //        Check if index has left or right children
         else if(index->left == nullptr) {
             index->right->parent = index->parent;
+//            index is root and has right child
             if(index->parent == nullptr) {
                 root = index->right;
                 delete index;
                 return;
             }
+//            is left child and has right child
             else if(index->parent->left == index) {
                 index->parent->left = index->right;
                 delete index;
                 return;
             }
+//            is right child and has right child
             else if(index->parent->right == index) {
                 index->parent->right = index->right;
                 delete index;
@@ -204,15 +210,21 @@ void MovieTree::deleteMovieNode(string title){
             }
         }
         else if (index->right == nullptr) {
+//            index->left->parent = index->parent;
+//            index is root and has left child
             if (index->parent == nullptr) {
                 root = index->left;
                 delete index;
                 return;
-            } else if (index->parent->left == index) {
+            }
+//            is left child and has left child
+            else if (index->parent->left == index) {
                 index->parent->left = index->left;
                 delete index;
                 return;
-            } else if (index->parent->right == index) {
+            }
+//            is right child and has left child
+            else if (index->parent->right == index) {
                 index->parent->right = index->left;
                 delete index;
                 return;
@@ -225,18 +237,20 @@ void MovieTree::deleteMovieNode(string title){
             if (min == index->right) {
                 min->left = index->left;
                 index->left->parent = min;
-
+//              is root and has 2 children
                 if (index->parent == nullptr) {
                     root = min;
                     delete index;
                     return;
                 }
+//                is left child and has 2 children
                 else if (index == index->parent->left) {
                     min->parent = index->parent;
                     index->parent->left = min;
                     delete index;
                     return;
                 }
+//                is right child and has 2 children
                 else if (index == index->parent->right) {
                     min->parent = index->parent;
                     index->parent->right = min;
@@ -245,14 +259,14 @@ void MovieTree::deleteMovieNode(string title){
                 }
             }
 //            min is not root and has a right child
-            else if (min->right != nullptr) {
+            else {//if (min->right != nullptr) {
                 min->parent->left = min->right;
                 min->right->parent = min->parent;
                 min->left = index->left;
                 min->right = index->right;
                 min->left->parent = min;
                 min->right->parent = min;
-
+//              node is root
                 if (index->parent == nullptr) {
                     root = min;
                     delete index;
@@ -273,41 +287,11 @@ void MovieTree::deleteMovieNode(string title){
                     return;
                 }
             }
-////            min is not root and has no children
-//            else if(min->right == nullptr) {
-////                min->parent->left = min->right;
-////                min->right->parent = min->parent;
-//                min->left = index->left;
-//                min->right = index->right;
-//                min->left->parent = min;
-//                min->right->parent = min;
-//
-//                if (index->parent == nullptr) {
-//                    root = min;
-//                    delete index;
-//                    return;
-//                }
-//                else if (index->parent->left == index) {
-//
-//                    min->parent = index->parent;
-//                    index->parent->left = min;
-//                    delete index;
-//                    return;
-//                }
-//                else if (index->parent->right == index) {
-//
-//                    min->parent = index->parent;
-//                    index->parent->right = min;
-//                    delete index;
-//                    return;
-//                }
-
-//            }
 //            min is root
-            else {
-                root = nullptr;
-                delete index;
-            }
+//            else {
+//                root = nullptr;
+//                delete index;
+//            }
         }
     }
 }
