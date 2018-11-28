@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm2/BST.h
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm2/Graph.h
+vector
+-
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm2/main.cpp
+iostream
+-
+BST.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm2/BST.h
+Graph.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Midterm2/Graph.h
+

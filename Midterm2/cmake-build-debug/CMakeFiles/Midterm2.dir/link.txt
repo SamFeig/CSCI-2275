@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Midterm2.dir/main.cpp.o CMakeFiles/Midterm2.dir/BST.cpp.o CMakeFiles/Midterm2.dir/Graph.cpp.o  -o Midterm2 
