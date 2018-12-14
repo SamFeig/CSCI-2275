@@ -1,23 +1,28 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
-int hash2(string, int);
+int hash2(string , int);
 
 int main() {
-    string strings[] = {"Sam", "John", "Carl", "Bob", "Kylie", "Tim", "Alex"};
+    string strings[] = {"Benjamin", "John", "Cameron", "Bob", "Andrew", "Matt", "Kylie"};
 
     int size = sizeof(strings)/sizeof(strings[0]);
 
     for(string s : strings) {
-        cout<<hash2(s, size)<<endl;
+       int hash = hash2(s, size);
+        cout<<s<<" : "<<hash<<endl;
     }
     return 0;
 }
 
 int hash2(string s, int size) {
-    switch(s[0]) {
-        case "A":
+    int R = 256;
+    int Q = 1315423911; //large prime
 
-            break;
-    }
+    long hash = 0;
+    for (int i = 0; i < size; i++)
+        hash = R * hash + s[i];// % Q;
+
+    return (hash % size);
 }

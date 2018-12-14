@@ -202,3 +202,40 @@ void BST::deleteRootAndReplaceLeftMin() {
     delete root;
     root = leftMin;
 }
+
+//Correct Answer
+//void BST::deleteRootAndReplaceLeftMin()
+//{
+//    if (root != nullptr && root->leftChild != nullptr)
+//    {
+//        BSTNode *repNode = treeMinimum(root);
+//
+//        if (repNode->rightChild != nullptr)
+//            repNode->rightChild->parent = repNode->parent;
+//        repNode->parent->leftChild = repNode->rightChild;
+//
+//        repNode->leftChild = root->leftChild;
+//        if(repNode->leftChild != nullptr)
+//            repNode->leftChild->parent = repNode;
+//        repNode->rightChild = root->rightChild;
+//        if(repNode->rightChild != nullptr)
+//            repNode->rightChild->parent = repNode;
+//
+//        delete root;
+//        root = repNode;
+//    }
+//    else if (root->leftChild == nullptr)
+//    {
+//        if (root->rightChild != nullptr)
+//        {
+//            BSTNode * tempRoot = root->rightChild;
+//            delete root;
+//            root = tempRoot;
+//        }
+//        else
+//        {
+//            delete root;
+//            root = nullptr;
+//        }
+//    }
+//}

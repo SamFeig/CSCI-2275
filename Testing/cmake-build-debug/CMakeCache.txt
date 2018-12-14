@@ -14,6 +14,36 @@
 # EXTERNAL cache entries
 ########################
 
+//Value Computed by CMake
+BoostTest_BINARY_DIR:STATIC=/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Testing/cmake-build-debug
+
+//Value Computed by CMake
+BoostTest_SOURCE_DIR:STATIC=/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Testing
+
+//The directory containing a CMake configuration file for Boost.
+Boost_DIR:PATH=Boost_DIR-NOTFOUND
+
+//Boost filesystem library (debug)
+Boost_FILESYSTEM_LIBRARY_DEBUG:FILEPATH=/usr/local/lib/libboost_filesystem-mt.dylib
+
+//Boost filesystem library (release)
+Boost_FILESYSTEM_LIBRARY_RELEASE:FILEPATH=/usr/local/lib/libboost_filesystem-mt.dylib
+
+//Path to a file.
+Boost_INCLUDE_DIR:PATH=/usr/local/include
+
+//Boost library directory DEBUG
+Boost_LIBRARY_DIR_DEBUG:PATH=/usr/local/lib
+
+//Boost library directory RELEASE
+Boost_LIBRARY_DIR_RELEASE:PATH=/usr/local/lib
+
+//Boost system library (debug)
+Boost_SYSTEM_LIBRARY_DEBUG:FILEPATH=/usr/local/lib/libboost_system-mt.dylib
+
+//Boost system library (release)
+Boost_SYSTEM_LIBRARY_RELEASE:FILEPATH=/usr/local/lib/libboost_system-mt.dylib
+
 //Path to a program.
 CMAKE_AR:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/ar
 
@@ -203,6 +233,42 @@ CMAKE_STRIP:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/strip
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Path to a library.
+GTK_Xi_LIBRARY:FILEPATH=GTK_Xi_LIBRARY-NOTFOUND
+
+//Path to a library.
+GTK_gdk_LIBRARY:FILEPATH=GTK_gdk_LIBRARY-NOTFOUND
+
+//Path to a file.
+GTK_glib_INCLUDE_PATH:PATH=GTK_glib_INCLUDE_PATH-NOTFOUND
+
+//Path to a library.
+GTK_glib_LIBRARY:FILEPATH=GTK_glib_LIBRARY-NOTFOUND
+
+//Path to a file.
+GTK_glibconfig_INCLUDE_PATH:PATH=GTK_glibconfig_INCLUDE_PATH-NOTFOUND
+
+//Path to a library.
+GTK_gmodule_LIBRARY:FILEPATH=GTK_gmodule_LIBRARY-NOTFOUND
+
+//Path to a library.
+GTK_gthread_LIBRARY:FILEPATH=GTK_gthread_LIBRARY-NOTFOUND
+
+//Path to a file.
+GTK_gtk_INCLUDE_PATH:PATH=GTK_gtk_INCLUDE_PATH-NOTFOUND
+
+//Path to a library.
+GTK_gtk_LIBRARY:FILEPATH=GTK_gtk_LIBRARY-NOTFOUND
+
+//Path to a file.
+GTK_gtkgl_INCLUDE_PATH:PATH=GTK_gtkgl_INCLUDE_PATH-NOTFOUND
+
+//Path to a library.
+GTK_gtkgl_LIBRARY:FILEPATH=GTK_gtkgl_LIBRARY-NOTFOUND
+
+//pkg-config executable
+PKG_CONFIG_EXECUTABLE:FILEPATH=/usr/local/bin/pkg-config
+
 //Path to a program.
 ProcessorCount_cmd_sysctl:FILEPATH=/usr/sbin/sysctl
 
@@ -212,11 +278,108 @@ Testing_BINARY_DIR:STATIC=/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assi
 //Value Computed by CMake
 Testing_SOURCE_DIR:STATIC=/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Testing
 
+//The directory containing a CMake configuration file for gtk+.
+gtk+_DIR:PATH=gtk+_DIR-NOTFOUND
+
+//Path to a library.
+pkgcfg_lib_GTK3_atk-1.0:FILEPATH=/usr/local/Cellar/atk/2.30.0/lib/libatk-1.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_cairo:FILEPATH=/usr/local/Cellar/cairo/1.16.0/lib/libcairo.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_cairo-gobject:FILEPATH=/usr/local/Cellar/cairo/1.16.0/lib/libcairo-gobject.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_gdk-3:FILEPATH=/usr/local/Cellar/gtk+3/3.22.30/lib/libgdk-3.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_gdk_pixbuf-2.0:FILEPATH=/usr/local/Cellar/gdk-pixbuf/2.38.0/lib/libgdk_pixbuf-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_gio-2.0:FILEPATH=/usr/local/Cellar/glib/2.58.1/lib/libgio-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_glib-2.0:FILEPATH=/usr/local/Cellar/glib/2.58.1/lib/libglib-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_gobject-2.0:FILEPATH=/usr/local/Cellar/glib/2.58.1/lib/libgobject-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_gtk-3:FILEPATH=/usr/local/Cellar/gtk+3/3.22.30/lib/libgtk-3.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_intl:FILEPATH=/usr/local/opt/gettext/lib/libintl.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_pango-1.0:FILEPATH=/usr/local/Cellar/pango/1.42.4/lib/libpango-1.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK3_pangocairo-1.0:FILEPATH=/usr/local/Cellar/pango/1.42.4/lib/libpangocairo-1.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_atk-1.0:FILEPATH=/usr/local/Cellar/atk/2.30.0/lib/libatk-1.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_cairo:FILEPATH=/usr/local/Cellar/cairo/1.16.0/lib/libcairo.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_cairo-gobject:FILEPATH=/usr/local/Cellar/cairo/1.16.0/lib/libcairo-gobject.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_gdk-3:FILEPATH=/usr/local/Cellar/gtk+3/3.22.30/lib/libgdk-3.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_gdk-quartz-2.0:FILEPATH=/usr/local/Cellar/gtk+/2.24.32_2/lib/libgdk-quartz-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_gdk_pixbuf-2.0:FILEPATH=/usr/local/Cellar/gdk-pixbuf/2.38.0/lib/libgdk_pixbuf-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_gio-2.0:FILEPATH=/usr/local/Cellar/glib/2.58.1/lib/libgio-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_glib-2.0:FILEPATH=/usr/local/Cellar/glib/2.58.1/lib/libglib-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_gobject-2.0:FILEPATH=/usr/local/Cellar/glib/2.58.1/lib/libgobject-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_gtk-3:FILEPATH=/usr/local/Cellar/gtk+3/3.22.30/lib/libgtk-3.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_gtk-quartz-2.0:FILEPATH=/usr/local/Cellar/gtk+/2.24.32_2/lib/libgtk-quartz-2.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_intl:FILEPATH=/usr/local/opt/gettext/lib/libintl.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_pango-1.0:FILEPATH=/usr/local/Cellar/pango/1.42.4/lib/libpango-1.0.dylib
+
+//Path to a library.
+pkgcfg_lib_GTK_pangocairo-1.0:FILEPATH=/usr/local/Cellar/pango/1.42.4/lib/libpangocairo-1.0.dylib
+
 
 ########################
 # INTERNAL cache entries
 ########################
 
+//ADVANCED property for variable: Boost_DIR
+Boost_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: Boost_FILESYSTEM_LIBRARY_DEBUG
+Boost_FILESYSTEM_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: Boost_FILESYSTEM_LIBRARY_RELEASE
+Boost_FILESYSTEM_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: Boost_INCLUDE_DIR
+Boost_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: Boost_LIBRARY_DIR_DEBUG
+Boost_LIBRARY_DIR_DEBUG-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: Boost_LIBRARY_DIR_RELEASE
+Boost_LIBRARY_DIR_RELEASE-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: Boost_SYSTEM_LIBRARY_DEBUG
+Boost_SYSTEM_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: Boost_SYSTEM_LIBRARY_RELEASE
+Boost_SYSTEM_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_AR
 CMAKE_AR-ADVANCED:INTERNAL=1
 //This is the directory where this CMakeCache.txt was created
@@ -354,6 +517,121 @@ CMAKE_STRIP-ADVANCED:INTERNAL=1
 CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding PkgConfig
+FIND_PACKAGE_MESSAGE_DETAILS_PkgConfig:INTERNAL=[/usr/local/bin/pkg-config][v0.29.2()]
+GTK3_CFLAGS:INTERNAL=-D_REENTRANT;-I/usr/local/Cellar/gtk+3/3.22.30/include/gtk-3.0;-I/usr/local/Cellar/glib/2.58.1/include/gio-unix-2.0/;-I/usr/local/Cellar/cairo/1.16.0/include/cairo;-I/usr/local/Cellar/libepoxy/1.5.3/include;-I/usr/local/Cellar/pango/1.42.4/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/2.2.0/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.12/include;-I/usr/local/Cellar/pango/1.42.4/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.5/include/fribidi;-I/usr/local/Cellar/atk/2.30.0/include/atk-1.0;-I/usr/local/Cellar/cairo/1.16.0/include/cairo;-I/usr/local/Cellar/pixman/0.34.0_1/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.35/include/libpng16;-I/usr/local/Cellar/gdk-pixbuf/2.38.0/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/glib/2.58.1/include/glib-2.0;-I/usr/local/Cellar/glib/2.58.1/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.42/include
+GTK3_CFLAGS_I:INTERNAL=
+GTK3_CFLAGS_OTHER:INTERNAL=-D_REENTRANT
+GTK3_FOUND:INTERNAL=1
+GTK3_INCLUDEDIR:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/include
+GTK3_INCLUDE_DIRS:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/include/gtk-3.0;/usr/local/Cellar/glib/2.58.1/include/gio-unix-2.0/;/usr/local/Cellar/cairo/1.16.0/include/cairo;/usr/local/Cellar/libepoxy/1.5.3/include;/usr/local/Cellar/pango/1.42.4/include/pango-1.0;/usr/local/Cellar/harfbuzz/2.2.0/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.12/include;/usr/local/Cellar/pango/1.42.4/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.5/include/fribidi;/usr/local/Cellar/atk/2.30.0/include/atk-1.0;/usr/local/Cellar/cairo/1.16.0/include/cairo;/usr/local/Cellar/pixman/0.34.0_1/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.35/include/libpng16;/usr/local/Cellar/gdk-pixbuf/2.38.0/include/gdk-pixbuf-2.0;/usr/local/Cellar/glib/2.58.1/include/glib-2.0;/usr/local/Cellar/glib/2.58.1/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.42/include
+GTK3_LDFLAGS:INTERNAL=-L/usr/local/Cellar/gtk+3/3.22.30/lib;-L/usr/local/Cellar/pango/1.42.4/lib;-L/usr/local/Cellar/atk/2.30.0/lib;-L/usr/local/Cellar/cairo/1.16.0/lib;-L/usr/local/Cellar/gdk-pixbuf/2.38.0/lib;-L/usr/local/Cellar/glib/2.58.1/lib;-L/usr/local/opt/gettext/lib;-lgtk-3;-lgdk-3;-lpangocairo-1.0;-lpango-1.0;-latk-1.0;-lcairo-gobject;-lcairo;-lgdk_pixbuf-2.0;-lgio-2.0;-lgobject-2.0;-lglib-2.0;-lintl;-Wl,-framework;-Wl,CoreFoundation
+GTK3_LDFLAGS_OTHER:INTERNAL=-Wl,-framework;-Wl,CoreFoundation
+GTK3_LIBDIR:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/lib
+GTK3_LIBRARIES:INTERNAL=gtk-3;gdk-3;pangocairo-1.0;pango-1.0;atk-1.0;cairo-gobject;cairo;gdk_pixbuf-2.0;gio-2.0;gobject-2.0;glib-2.0;intl
+GTK3_LIBRARY_DIRS:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/lib;/usr/local/Cellar/pango/1.42.4/lib;/usr/local/Cellar/atk/2.30.0/lib;/usr/local/Cellar/cairo/1.16.0/lib;/usr/local/Cellar/gdk-pixbuf/2.38.0/lib;/usr/local/Cellar/glib/2.58.1/lib;/usr/local/opt/gettext/lib
+GTK3_LIBS:INTERNAL=
+GTK3_LIBS_L:INTERNAL=
+GTK3_LIBS_OTHER:INTERNAL=
+GTK3_LIBS_PATHS:INTERNAL=
+GTK3_PREFIX:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30
+GTK3_STATIC_CFLAGS:INTERNAL=-D_REENTRANT;-I/usr/local/Cellar/gtk+3/3.22.30/include/gtk-3.0;-I/usr/local/Cellar/glib/2.58.1/include/gio-unix-2.0/;-I/usr/local/Cellar/cairo/1.16.0/include/cairo;-I/usr/local/Cellar/libepoxy/1.5.3/include;-I/usr/local/Cellar/pango/1.42.4/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/2.2.0/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.12/include;-I/usr/local/Cellar/pango/1.42.4/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.5/include/fribidi;-I/usr/local/Cellar/atk/2.30.0/include/atk-1.0;-I/usr/local/Cellar/cairo/1.16.0/include/cairo;-I/usr/local/Cellar/pixman/0.34.0_1/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.35/include/libpng16;-I/usr/local/Cellar/gdk-pixbuf/2.38.0/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/glib/2.58.1/include/glib-2.0;-I/usr/local/Cellar/glib/2.58.1/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.42/include
+GTK3_STATIC_CFLAGS_I:INTERNAL=
+GTK3_STATIC_CFLAGS_OTHER:INTERNAL=-D_REENTRANT
+GTK3_STATIC_INCLUDE_DIRS:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/include/gtk-3.0;/usr/local/Cellar/glib/2.58.1/include/gio-unix-2.0/;/usr/local/Cellar/cairo/1.16.0/include/cairo;/usr/local/Cellar/libepoxy/1.5.3/include;/usr/local/Cellar/pango/1.42.4/include/pango-1.0;/usr/local/Cellar/harfbuzz/2.2.0/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.12/include;/usr/local/Cellar/pango/1.42.4/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.5/include/fribidi;/usr/local/Cellar/atk/2.30.0/include/atk-1.0;/usr/local/Cellar/cairo/1.16.0/include/cairo;/usr/local/Cellar/pixman/0.34.0_1/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.35/include/libpng16;/usr/local/Cellar/gdk-pixbuf/2.38.0/include/gdk-pixbuf-2.0;/usr/local/Cellar/glib/2.58.1/include/glib-2.0;/usr/local/Cellar/glib/2.58.1/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.42/include
+GTK3_STATIC_LDFLAGS:INTERNAL=-L/usr/local/Cellar/gtk+3/3.22.30/lib;-L/usr/local/Cellar/glib/2.58.1/lib;-L/usr/local/Cellar/libepoxy/1.5.3/lib;-L/usr/local/Cellar/pango/1.42.4/lib;-L/usr/local/Cellar/harfbuzz/2.2.0/lib;-L/usr/local/Cellar/graphite2/1.3.12/lib;-L/usr/local/Cellar/pango/1.42.4/lib;-L/usr/local/Cellar/fribidi/1.0.5/lib;-L/usr/local/Cellar/atk/2.30.0/lib;-L/usr/local/Cellar/cairo/1.16.0/lib;-L/usr/local/Cellar/pixman/0.34.0_1/lib;-L/usr/local/Cellar/fontconfig/2.13.1/lib;-L/usr/local/opt/freetype/lib;-L/usr/local/Cellar/libpng/1.6.34/lib;-L/usr/local/Cellar/libpng/1.6.35/lib;-L/usr/local/Cellar/gdk-pixbuf/2.38.0/lib;-L/usr/local/Cellar/glib/2.58.1/lib;-L/usr/local/Cellar/libffi/3.2.1/lib;-L/usr/local/Cellar/glib/2.58.1/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.42/lib;-lgtk-3;-lgdk-3;-lgio-2.0;-lepoxy;-ldl;-lpangocairo-1.0;-lpangoft2-1.0;-lharfbuzz;-lm;-framework;ApplicationServices;-lgraphite2;-lpango-1.0;-lm;-lfribidi;-latk-1.0;-lcairo-gobject;-lcairo;-lz;-lpixman-1;-lfontconfig;-lexpat;-lfreetype;-lz;-lbz2;-lpng16;-lz;-lpng16;-lz;-lgdk_pixbuf-2.0;-lm;-lgio-2.0;-lz;-lresolv;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-Wl,-framework,Carbon;-lgmodule-2.0;-lgobject-2.0;-lffi;-lglib-2.0;-lintl;-Wl,-framework;-Wl,CoreFoundation;-lpcre;-lintl;-Wl,-framework;-Wl,CoreFoundation;-liconv;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-lpcre;-D_THREAD_SAFE;-pthread
+GTK3_STATIC_LDFLAGS_OTHER:INTERNAL=-framework;ApplicationServices;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-Wl,-framework,Carbon;-Wl,-framework;-Wl,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread
+GTK3_STATIC_LIBDIR:INTERNAL=
+GTK3_STATIC_LIBRARIES:INTERNAL=gtk-3;gdk-3;gio-2.0;epoxy;dl;pangocairo-1.0;pangoft2-1.0;harfbuzz;m;graphite2;pango-1.0;m;fribidi;atk-1.0;cairo-gobject;cairo;z;pixman-1;fontconfig;expat;freetype;z;bz2;png16;z;png16;z;gdk_pixbuf-2.0;m;gio-2.0;z;resolv;gmodule-2.0;gobject-2.0;ffi;glib-2.0;intl;pcre;intl;iconv;pcre
+GTK3_STATIC_LIBRARY_DIRS:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/lib;/usr/local/Cellar/glib/2.58.1/lib;/usr/local/Cellar/libepoxy/1.5.3/lib;/usr/local/Cellar/pango/1.42.4/lib;/usr/local/Cellar/harfbuzz/2.2.0/lib;/usr/local/Cellar/graphite2/1.3.12/lib;/usr/local/Cellar/pango/1.42.4/lib;/usr/local/Cellar/fribidi/1.0.5/lib;/usr/local/Cellar/atk/2.30.0/lib;/usr/local/Cellar/cairo/1.16.0/lib;/usr/local/Cellar/pixman/0.34.0_1/lib;/usr/local/Cellar/fontconfig/2.13.1/lib;/usr/local/opt/freetype/lib;/usr/local/Cellar/libpng/1.6.34/lib;/usr/local/Cellar/libpng/1.6.35/lib;/usr/local/Cellar/gdk-pixbuf/2.38.0/lib;/usr/local/Cellar/glib/2.58.1/lib;/usr/local/Cellar/libffi/3.2.1/lib;/usr/local/Cellar/glib/2.58.1/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.42/lib
+GTK3_STATIC_LIBS:INTERNAL=
+GTK3_STATIC_LIBS_L:INTERNAL=
+GTK3_STATIC_LIBS_OTHER:INTERNAL=
+GTK3_STATIC_LIBS_PATHS:INTERNAL=
+GTK3_VERSION:INTERNAL=3.22.30
+GTK3_gtk+-3.0_INCLUDEDIR:INTERNAL=
+GTK3_gtk+-3.0_LIBDIR:INTERNAL=
+GTK3_gtk+-3.0_PREFIX:INTERNAL=
+GTK3_gtk+-3.0_VERSION:INTERNAL=
+GTK_CFLAGS:INTERNAL=-D_REENTRANT;-I/usr/local/Cellar/gtk+3/3.22.30/include/gtk-3.0;-I/usr/local/Cellar/glib/2.58.1/include/gio-unix-2.0/;-I/usr/local/Cellar/cairo/1.16.0/include/cairo;-I/usr/local/Cellar/libepoxy/1.5.3/include;-I/usr/local/Cellar/pango/1.42.4/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/2.2.0/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.12/include;-I/usr/local/Cellar/pango/1.42.4/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.5/include/fribidi;-I/usr/local/Cellar/atk/2.30.0/include/atk-1.0;-I/usr/local/Cellar/cairo/1.16.0/include/cairo;-I/usr/local/Cellar/pixman/0.34.0_1/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.35/include/libpng16;-I/usr/local/Cellar/gdk-pixbuf/2.38.0/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/glib/2.58.1/include/glib-2.0;-I/usr/local/Cellar/glib/2.58.1/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.42/include
+GTK_CFLAGS_I:INTERNAL=
+GTK_CFLAGS_OTHER:INTERNAL=-D_REENTRANT
+GTK_FOUND:INTERNAL=1
+GTK_INCLUDEDIR:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/include
+GTK_INCLUDE_DIRS:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/include/gtk-3.0;/usr/local/Cellar/glib/2.58.1/include/gio-unix-2.0/;/usr/local/Cellar/cairo/1.16.0/include/cairo;/usr/local/Cellar/libepoxy/1.5.3/include;/usr/local/Cellar/pango/1.42.4/include/pango-1.0;/usr/local/Cellar/harfbuzz/2.2.0/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.12/include;/usr/local/Cellar/pango/1.42.4/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.5/include/fribidi;/usr/local/Cellar/atk/2.30.0/include/atk-1.0;/usr/local/Cellar/cairo/1.16.0/include/cairo;/usr/local/Cellar/pixman/0.34.0_1/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.35/include/libpng16;/usr/local/Cellar/gdk-pixbuf/2.38.0/include/gdk-pixbuf-2.0;/usr/local/Cellar/glib/2.58.1/include/glib-2.0;/usr/local/Cellar/glib/2.58.1/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.42/include
+GTK_LDFLAGS:INTERNAL=-L/usr/local/Cellar/gtk+3/3.22.30/lib;-L/usr/local/Cellar/pango/1.42.4/lib;-L/usr/local/Cellar/atk/2.30.0/lib;-L/usr/local/Cellar/cairo/1.16.0/lib;-L/usr/local/Cellar/gdk-pixbuf/2.38.0/lib;-L/usr/local/Cellar/glib/2.58.1/lib;-L/usr/local/opt/gettext/lib;-lgtk-3;-lgdk-3;-lpangocairo-1.0;-lpango-1.0;-latk-1.0;-lcairo-gobject;-lcairo;-lgdk_pixbuf-2.0;-lgio-2.0;-lgobject-2.0;-lglib-2.0;-lintl;-Wl,-framework;-Wl,CoreFoundation
+GTK_LDFLAGS_OTHER:INTERNAL=-Wl,-framework;-Wl,CoreFoundation
+GTK_LIBDIR:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/lib
+GTK_LIBRARIES:INTERNAL=gtk-3;gdk-3;pangocairo-1.0;pango-1.0;atk-1.0;cairo-gobject;cairo;gdk_pixbuf-2.0;gio-2.0;gobject-2.0;glib-2.0;intl
+GTK_LIBRARY_DIRS:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/lib;/usr/local/Cellar/pango/1.42.4/lib;/usr/local/Cellar/atk/2.30.0/lib;/usr/local/Cellar/cairo/1.16.0/lib;/usr/local/Cellar/gdk-pixbuf/2.38.0/lib;/usr/local/Cellar/glib/2.58.1/lib;/usr/local/opt/gettext/lib
+GTK_LIBS:INTERNAL=
+GTK_LIBS_L:INTERNAL=
+GTK_LIBS_OTHER:INTERNAL=
+GTK_LIBS_PATHS:INTERNAL=
+GTK_PREFIX:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30
+GTK_STATIC_CFLAGS:INTERNAL=-D_REENTRANT;-I/usr/local/Cellar/gtk+3/3.22.30/include/gtk-3.0;-I/usr/local/Cellar/glib/2.58.1/include/gio-unix-2.0/;-I/usr/local/Cellar/cairo/1.16.0/include/cairo;-I/usr/local/Cellar/libepoxy/1.5.3/include;-I/usr/local/Cellar/pango/1.42.4/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/2.2.0/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.12/include;-I/usr/local/Cellar/pango/1.42.4/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.5/include/fribidi;-I/usr/local/Cellar/atk/2.30.0/include/atk-1.0;-I/usr/local/Cellar/cairo/1.16.0/include/cairo;-I/usr/local/Cellar/pixman/0.34.0_1/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.35/include/libpng16;-I/usr/local/Cellar/gdk-pixbuf/2.38.0/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/glib/2.58.1/include/glib-2.0;-I/usr/local/Cellar/glib/2.58.1/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.42/include
+GTK_STATIC_CFLAGS_I:INTERNAL=
+GTK_STATIC_CFLAGS_OTHER:INTERNAL=-D_REENTRANT
+GTK_STATIC_INCLUDE_DIRS:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/include/gtk-3.0;/usr/local/Cellar/glib/2.58.1/include/gio-unix-2.0/;/usr/local/Cellar/cairo/1.16.0/include/cairo;/usr/local/Cellar/libepoxy/1.5.3/include;/usr/local/Cellar/pango/1.42.4/include/pango-1.0;/usr/local/Cellar/harfbuzz/2.2.0/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.12/include;/usr/local/Cellar/pango/1.42.4/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.5/include/fribidi;/usr/local/Cellar/atk/2.30.0/include/atk-1.0;/usr/local/Cellar/cairo/1.16.0/include/cairo;/usr/local/Cellar/pixman/0.34.0_1/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.35/include/libpng16;/usr/local/Cellar/gdk-pixbuf/2.38.0/include/gdk-pixbuf-2.0;/usr/local/Cellar/glib/2.58.1/include/glib-2.0;/usr/local/Cellar/glib/2.58.1/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.42/include
+GTK_STATIC_LDFLAGS:INTERNAL=-L/usr/local/Cellar/gtk+3/3.22.30/lib;-L/usr/local/Cellar/glib/2.58.1/lib;-L/usr/local/Cellar/libepoxy/1.5.3/lib;-L/usr/local/Cellar/pango/1.42.4/lib;-L/usr/local/Cellar/harfbuzz/2.2.0/lib;-L/usr/local/Cellar/graphite2/1.3.12/lib;-L/usr/local/Cellar/pango/1.42.4/lib;-L/usr/local/Cellar/fribidi/1.0.5/lib;-L/usr/local/Cellar/atk/2.30.0/lib;-L/usr/local/Cellar/cairo/1.16.0/lib;-L/usr/local/Cellar/pixman/0.34.0_1/lib;-L/usr/local/Cellar/fontconfig/2.13.1/lib;-L/usr/local/opt/freetype/lib;-L/usr/local/Cellar/libpng/1.6.34/lib;-L/usr/local/Cellar/libpng/1.6.35/lib;-L/usr/local/Cellar/gdk-pixbuf/2.38.0/lib;-L/usr/local/Cellar/glib/2.58.1/lib;-L/usr/local/Cellar/libffi/3.2.1/lib;-L/usr/local/Cellar/glib/2.58.1/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.42/lib;-lgtk-3;-lgdk-3;-lgio-2.0;-lepoxy;-ldl;-lpangocairo-1.0;-lpangoft2-1.0;-lharfbuzz;-lm;-framework;ApplicationServices;-lgraphite2;-lpango-1.0;-lm;-lfribidi;-latk-1.0;-lcairo-gobject;-lcairo;-lz;-lpixman-1;-lfontconfig;-lexpat;-lfreetype;-lz;-lbz2;-lpng16;-lz;-lpng16;-lz;-lgdk_pixbuf-2.0;-lm;-lgio-2.0;-lz;-lresolv;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-Wl,-framework,Carbon;-lgmodule-2.0;-lgobject-2.0;-lffi;-lglib-2.0;-lintl;-Wl,-framework;-Wl,CoreFoundation;-lpcre;-lintl;-Wl,-framework;-Wl,CoreFoundation;-liconv;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-lpcre;-D_THREAD_SAFE;-pthread
+GTK_STATIC_LDFLAGS_OTHER:INTERNAL=-framework;ApplicationServices;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-Wl,-framework,Carbon;-Wl,-framework;-Wl,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread
+GTK_STATIC_LIBDIR:INTERNAL=
+GTK_STATIC_LIBRARIES:INTERNAL=gtk-3;gdk-3;gio-2.0;epoxy;dl;pangocairo-1.0;pangoft2-1.0;harfbuzz;m;graphite2;pango-1.0;m;fribidi;atk-1.0;cairo-gobject;cairo;z;pixman-1;fontconfig;expat;freetype;z;bz2;png16;z;png16;z;gdk_pixbuf-2.0;m;gio-2.0;z;resolv;gmodule-2.0;gobject-2.0;ffi;glib-2.0;intl;pcre;intl;iconv;pcre
+GTK_STATIC_LIBRARY_DIRS:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/lib;/usr/local/Cellar/glib/2.58.1/lib;/usr/local/Cellar/libepoxy/1.5.3/lib;/usr/local/Cellar/pango/1.42.4/lib;/usr/local/Cellar/harfbuzz/2.2.0/lib;/usr/local/Cellar/graphite2/1.3.12/lib;/usr/local/Cellar/pango/1.42.4/lib;/usr/local/Cellar/fribidi/1.0.5/lib;/usr/local/Cellar/atk/2.30.0/lib;/usr/local/Cellar/cairo/1.16.0/lib;/usr/local/Cellar/pixman/0.34.0_1/lib;/usr/local/Cellar/fontconfig/2.13.1/lib;/usr/local/opt/freetype/lib;/usr/local/Cellar/libpng/1.6.34/lib;/usr/local/Cellar/libpng/1.6.35/lib;/usr/local/Cellar/gdk-pixbuf/2.38.0/lib;/usr/local/Cellar/glib/2.58.1/lib;/usr/local/Cellar/libffi/3.2.1/lib;/usr/local/Cellar/glib/2.58.1/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.42/lib
+GTK_STATIC_LIBS:INTERNAL=
+GTK_STATIC_LIBS_L:INTERNAL=
+GTK_STATIC_LIBS_OTHER:INTERNAL=
+GTK_STATIC_LIBS_PATHS:INTERNAL=
+GTK_VERSION:INTERNAL=3.22.30
+//ADVANCED property for variable: GTK_Xi_LIBRARY
+GTK_Xi_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GTK_gdk_LIBRARY
+GTK_gdk_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GTK_glib_INCLUDE_PATH
+GTK_glib_INCLUDE_PATH-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GTK_glib_LIBRARY
+GTK_glib_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GTK_glibconfig_INCLUDE_PATH
+GTK_glibconfig_INCLUDE_PATH-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GTK_gmodule_LIBRARY
+GTK_gmodule_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GTK_gthread_LIBRARY
+GTK_gthread_LIBRARY-ADVANCED:INTERNAL=1
+GTK_gtk+-2.0_INCLUDEDIR:INTERNAL=
+GTK_gtk+-2.0_LIBDIR:INTERNAL=
+GTK_gtk+-2.0_PREFIX:INTERNAL=
+GTK_gtk+-2.0_VERSION:INTERNAL=
+GTK_gtk+-3.0_INCLUDEDIR:INTERNAL=
+GTK_gtk+-3.0_LIBDIR:INTERNAL=
+GTK_gtk+-3.0_PREFIX:INTERNAL=
+GTK_gtk+-3.0_VERSION:INTERNAL=
+//ADVANCED property for variable: GTK_gtk_INCLUDE_PATH
+GTK_gtk_INCLUDE_PATH-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GTK_gtk_LIBRARY
+GTK_gtk_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GTK_gtkgl_INCLUDE_PATH
+GTK_gtkgl_INCLUDE_PATH-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GTK_gtkgl_LIBRARY
+GTK_gtkgl_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: PKG_CONFIG_EXECUTABLE
+PKG_CONFIG_EXECUTABLE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: ProcessorCount_cmd_sysctl
 ProcessorCount_cmd_sysctl-ADVANCED:INTERNAL=1
+//Components requested for this build tree.
+_Boost_COMPONENTS_SEARCHED:INTERNAL=filesystem;system
+//Last used Boost_INCLUDE_DIR value.
+_Boost_INCLUDE_DIR_LAST:INTERNAL=/usr/local/include
+//Last used Boost_LIBRARY_DIR_DEBUG value.
+_Boost_LIBRARY_DIR_DEBUG_LAST:INTERNAL=/usr/local/lib
+//Last used Boost_LIBRARY_DIR_RELEASE value.
+_Boost_LIBRARY_DIR_RELEASE_LAST:INTERNAL=/usr/local/lib
+//Last used Boost_NAMESPACE value.
+_Boost_NAMESPACE_LAST:INTERNAL=boost
+//Last used Boost_USE_MULTITHREADED value.
+_Boost_USE_MULTITHREADED_LAST:INTERNAL=TRUE
+__pkg_config_arguments_GTK:INTERNAL=REQUIRED;gtk+-3.0
+__pkg_config_arguments_GTK3:INTERNAL=REQUIRED;gtk+-3.0
+__pkg_config_checked_GTK:INTERNAL=1
+__pkg_config_checked_GTK3:INTERNAL=1
+prefix_result:INTERNAL=/usr/local/Cellar/gtk+3/3.22.30/lib
 

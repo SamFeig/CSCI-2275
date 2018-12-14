@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Treaps/main.cpp
+iostream
+-
+treap.cpp
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Treaps/treap.cpp
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Treaps/treap.cpp
+iostream
+-
+

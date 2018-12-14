@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/FinalProjectDataCompression/Huffman.h
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+memory
+-
+algorithm
+-
+sstream
+-
+map
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/FinalProjectDataCompression/LZW.h
+iostream
+-
+sstream
+-
+fstream
+-
+bitset
+-
+string
+-
+unordered_map
+-
+map
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/FinalProjectDataCompression/RunLength.h
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/FinalProjectDataCompression/Util.cpp
+vector
+-
+bitset
+-
+algorithm
+-
+string
+-
+fstream
+-
+iterator
+-
+exception
+-
+sstream
+-
+iostream
+-
+
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/FinalProjectDataCompression/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+RunLength.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/FinalProjectDataCompression/RunLength.h
+LZW.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/FinalProjectDataCompression/LZW.h
+Huffman.h
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/FinalProjectDataCompression/Huffman.h
+Util.cpp
+/Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/FinalProjectDataCompression/Util.cpp
+

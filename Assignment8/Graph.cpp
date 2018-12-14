@@ -125,7 +125,6 @@ int Graph<T>::BFS(T startValue, T endValue) {
             if (!front->adj[i]->visited) {
                 front->adj[i]->visited = true;
                 front->adj[i]->distance = front->distance + 1;
-                front->adj[i]->visited = true;
                 front->adj[i]->parent = front;
                 t.push(front->adj[i]);
             }

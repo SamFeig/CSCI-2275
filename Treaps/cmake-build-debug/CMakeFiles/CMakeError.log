@@ -1,0 +1,40 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Treaps/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b7a8e/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b7a8e.dir/build.make CMakeFiles/cmTC_b7a8e.dir/build
+CMakeFiles/cmTC_b7a8e.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_b7a8e/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Treaps/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_14186/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_14186.dir/build.make CMakeFiles/cmTC_14186.dir/build
+CMakeFiles/cmTC_14186.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_14186/fast] Error 2
+
+
+
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Treaps/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_12577/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_12577.dir/build.make CMakeFiles/cmTC_12577.dir/build
+CMakeFiles/cmTC_12577.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_12577/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/sam/Desktop/CU Boulder/2018:2019/CSCI 2275/Assignments/Treaps/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0302c/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_0302c.dir/build.make CMakeFiles/cmTC_0302c.dir/build
+CMakeFiles/cmTC_0302c.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_0302c/fast] Error 2
+
+
+
